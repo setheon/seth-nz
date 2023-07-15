@@ -1,5 +1,3 @@
-echo "/public/" >> .gitignore
-
 baseURL: https://seth.nz # todo: change site url.
 title: seth.nz # todo: change site name.
 defaultContentLanguage: 'en'
